@@ -281,7 +281,7 @@ section .title::after{
 .projects .title::after,
 .locations .title::after{
     background: rgba(255, 182, 193, 0.219);
-    content: "new+old";
+    content: "personal";
 }
 .projects .project-content .card{
     width: calc(33% - 20px);
@@ -318,7 +318,7 @@ section .title::after{
 /* toolbox section styling */
 
 .toolbox .title::after{
-    content: "the fun stuff";
+    content: "my tools";
 }
 .toolbox .toolbox-content .column{
     width: calc(50% - 30px);
@@ -392,7 +392,7 @@ section .title::after{
 
 /* snippets section styling */
 .snippets .title::after{
-    content: "best moments";
+    content: "snapshots";
 }
 .snippets .carousel .card{
     background: indigo;
@@ -455,7 +455,7 @@ section .title::after{
 
 /* contact section styling */
 .cc .title::after{
-    content: "gimme a holler";
+    content: "let's keep in touch";
 }
 .cc .cc-content .column{
     width: calc(50% - 30px);
@@ -690,3 +690,4 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
